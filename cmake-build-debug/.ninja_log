@@ -1,0 +1,5 @@
+# ninja log v5
+4	1795	1719481946965410822	CMakeFiles/allocators.dir/main.cpp.o	9d2269d974c0eb94
+7	1310	1719481969626650278	CMakeFiles/allocators.dir/memory.cpp.o	5e301a146806d377
+1310	1611	1719481969932730461	allocators	df21c3dfe22dea02
+13	1441	1719505619895763673	CMakeFiles/allocators.dir/main.cpp.o	9d2269d974c0eb94
